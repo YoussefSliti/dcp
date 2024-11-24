@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name" : "Battlefield",
+        "description" : "The Battlefield series is a critically acclaimed first-person shooter franchise developed by DICE and published by Electronic Arts. Known for its large-scale battles, dynamic environments, and immersive multiplayer gameplay, the series allows players to experience intense combat in a variety of historical and modern settings. With innovative mechanics like destructible environments and vehicular combat, Battlefield offers a unique and exhilarating gaming experience.",
+        "photo" :"./battlefield.jpg"
+    },
+    {
+        "id" : 2,
+        "name" : "Assassins creed",
+        "description" : "*Assassin's Creed* is an action-adventure game series developed by Ubisoft, known for its immersive open-world gameplay and rich historical narratives. Players take on the role of skilled assassins, navigating detailed environments set in key historical periods, from ancient civilizations to the Renaissance and beyond. The series blends stealth, parkour, and combat, offering a unique experience where players uncover secrets, fight for justice, and challenge powerful adversaries across the ages.",
+        "photo" :"./assassin-creed.jpg"
+    },
+    {
+        "id":3,
+        "name": "FIFA",
+        "description": "*FIFA* is a popular sports video game series developed by EA Sports, renowned for its realistic football simulation and immersive gameplay. The game features real-life teams, players, and stadiums, allowing players to experience the excitement of global football competitions. With various game modes, including career, online multiplayer, and ultimate team, *FIFA* offers an authentic and dynamic experience for both casual gamers and football enthusiasts alike.",
+        "photo" :"./fifa.jpg"
+    },
+    {
+        "id":4,
+        "name":"The Crew",
+        "description":"*The Crew* is an open-world racing game developed by Ivory Tower and published by Ubisoft, offering players the freedom to explore a vast, dynamic representation of the United States. The game features a variety of vehicles, customizable options, and a wide range of events, from street racing to off-road challenges. Players can team up with others in online multiplayer modes, join clubs, and compete in thrilling races across diverse environments, making *The Crew* an exciting and immersive racing experience.",
+        "photo" :"./the-crew.jpg"
+    },
+    {
+        "id":5,
+        "name":"GTA",
+        "description":"*Grand Theft Auto* (GTA) is an action-adventure game series developed by Rockstar Games, known for its open-world gameplay and controversial, mature themes. Set in sprawling urban environments, players take on the role of criminals engaging in a variety of illegal activities, from heists to street races. With its engaging narrative, rich character development, and a mix of action, exploration, and humor, *GTA* has become one of the most iconic and successful video game franchises of all time.",
+        "photo" :"./gta.jpg"
+    },
+    {
+        "id":6,
+        "name":"Mass Effect",
+        "description":"*Mass Effect* is a critically acclaimed sci-fi RPG series developed by BioWare, known for its immersive storytelling, complex character development, and deep moral choices. Set in a richly detailed universe, players control Commander Shepard, a skilled military officer tasked with saving humanity and the galaxy from an ancient alien threat. With its mix of tactical combat, exploration, and branching narratives, *Mass Effect* offers players the chance to shape the fate of civilizations and build lasting relationships with a diverse cast of characters.",
+        "photo" :"./mass-effect.jpg"
+    },
+    {
+        "id":7,
+        "name":"red dead redemption",
+        "description":"Red Dead Redemption is an epic open-world action-adventure game set in the American Wild West. Players follow John Marston, a former outlaw, as he navigates a story of survival, revenge, and redemption. Experience thrilling gunfights, immersive landscapes, and a rich narrative.",
+        "photo":"./reddeadredemption.jpg"
+    },
+    {
+        "id":8,
+        "name":"Farcry",
+        "description":"Far Cry is an action-packed first-person shooter series set in stunning, vast open worlds. Players face off against ruthless enemies while exploring diverse environments, from tropical islands to mountainous regions. The games combine intense combat, strategic planning, and captivating stories.",
+        "photo":"./farcry.jpg"
+    }
+]
